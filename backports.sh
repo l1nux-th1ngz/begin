@@ -17,7 +17,4 @@ deb https://security.debian.org/debian-security/ bookworm-security contrib main 
 EOF'
 
 echo "Updating package lists again..."
-    
 sudo apt-get update
-
-echo "Done
